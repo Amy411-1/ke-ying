@@ -12,7 +12,7 @@ body {
 .header {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.3)),
-              url("images/PPP.png") center/cover no-repeat;
+              url("images/Burgundy.jpg") center/cover no-repeat;
   position: relative;
   overflow: hidden;
 }
@@ -126,8 +126,8 @@ body {
 
 /* Top bar used for About page (like homepage header but not full screen) */
 .top-bar {
-  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.3)),
-              url("images/PPP.png") center/cover no-repeat;
+  background: linear-gradient(rgba(255, 251, 251, 0.55), rgba(0, 0, 0, 0.3)),
+              url("images/Burgundy.jpg") center/cover no-repeat;
   padding: 16px 60px;
   display: flex;
   justify-content: space-between;
